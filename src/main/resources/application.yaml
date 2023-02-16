@@ -1,0 +1,4 @@
+downstream:
+  decathlon:
+    url: https://sports.api.decathlon.com/sports
+
